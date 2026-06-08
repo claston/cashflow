@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cash Flow Architecture POC
 
 POC local para demonstrar arquitetura de fluxo de caixa com:
@@ -73,3 +74,7 @@ curl -X POST http://localhost:8080/api/diagnostics/projection/failure-mode \
   -H "Content-Type: application/json" \
   -d '{"enabled": true}'
 ```
+=======
+# cashflow
+Desafio Sistema de Fluxo de Caixa
+>>>>>>> 95886e0b022a15d0536113249ca6c8a7ada9b859

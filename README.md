@@ -73,6 +73,3 @@ curl -X POST http://localhost:8080/api/diagnostics/projection/failure-mode \
   -H "Content-Type: application/json" \
   -d '{"enabled": true}'
 ```
-=======
-# cashflow
-Desafio Sistema de Fluxo de Caixa

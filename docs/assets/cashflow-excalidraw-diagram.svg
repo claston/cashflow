@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-584.80 3559.58 10490.98 12093.32" role="img" aria-labelledby="title desc">
+<title id="title">Cashflow architecture diagram exported from Excalidraw</title>
+<desc id="desc">Approximate SVG rendering generated locally from the project Excalidraw file.</desc>
+<defs>
+<marker id="arrowhead" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L12,4 L0,8 z" fill="#1e1e1e" />
+</marker>
+</defs>
+<rect x="-584.80" y="3559.58" width="10490.98" height="12093.32" fill="#ffffff" />
+<rect x="9327.41" y="6901.96" width="498.77" height="421.26" rx="12" ry="12" fill="#ffc9c9" stroke="#1e1e1e" stroke-width="4" />
+<rect x="9384.41" y="6959.60" width="394.80" height="312.90" rx="0" ry="0" fill="#ffc9c9" stroke="#1e1e1e" stroke-width="1" />
+<rect x="685.76" y="11511.09" width="2930.44" height="1302.98" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1357.87" y="11649.54" width="1600.18" height="1087.13" rx="12" ry="12" fill="transparent" stroke="#2f9e44" stroke-width="2" />
+<rect x="759.15" y="11816.06" width="463.72" height="499.30" rx="12" ry="12" fill="transparent" stroke="#2f9e44" stroke-width="2" />
+<rect x="3023.05" y="12264.07" width="568.15" height="392.18" rx="12" ry="12" fill="transparent" stroke="#2f9e44" stroke-width="2" />
+<rect x="1566.36" y="11915.58" width="1244.39" height="579.38" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1966.92" y="3811.65" width="734.11" height="1885.93" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1116.61" y="3829.64" width="359.00" height="268.40" rx="12" ry="12" fill="#ffec99" stroke="#1e1e1e" stroke-width="2" />
+<rect x="569.64" y="3872.26" width="146.00" height="154.00" rx="12" ry="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 709.64 3954.26 L 1116.61 3951.35" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1128.89" y="4176.34" width="396.83" height="367.94" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1296.17 4104.03 L 1296.39 4170.34" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1093.97" y="4696.32" width="500.33" height="245.27" rx="12" ry="12" fill="#a5d8ff" stroke="#1971c2" stroke-width="2" />
+<rect x="2031.75" y="3914.00" width="246.75" height="106.22" rx="12" ry="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1481.61 3924.20 L 2026.97 3929.64" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="456.50" y="4693.20" width="351.04" height="240.38" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1087.97 4750.70 L 813.54 4751.98" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 642.59 4032.26 L 636.02 4697.64" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 812.90 4910.43 L 1088.08 4913.40" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 2031.92 3988.96 L 1474.62 3984.01" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2035.02" y="4131.23" width="251.97" height="101.41" rx="12" ry="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1476.77 4072.10 L 2029.02 4157.31" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2038.18" y="4400.32" width="251.97" height="112.30" rx="12" ry="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1321.64 4376.36 L 1758.61 4377.26 L 2032.41 4423.28" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2040.38" y="4597.73" width="251.97" height="101.41" rx="12" ry="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1493.98 4468.74 L 2034.38 4646.48" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2039.22" y="4881.25" width="251.97" height="101.41" rx="12" ry="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2166.35 4705.15 L 2165.27 4875.25" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2036.81" y="5259.85" width="251.97" height="101.41" rx="12" ry="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2165.18 4988.66 L 2162.87 5253.85" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1260.07" y="5277.58" width="332.72" height="345.44" rx="12" ry="12" fill="#ffec99" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2030.81 5311.06 L 1602.11 5346.15" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2055.21" y="5433.31" width="251.97" height="129.56" rx="12" ry="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1598.80 5450.40 L 2050.10 5454.94" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 2049.21 5520.23 L 1598.80 5522.20" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 1244.39 4690.32 L 1245.05 4573.80 L 1245.06 4427.34" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1174.46" y="4331.34" width="141.17" height="90.00" rx="12" ry="12" fill="#b2f2bb" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1168.46 4380.03 L 1026.31 4467.27 L 1148.04 4690.32" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 2030.96 4220.41 L 1313.67 4332.16" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1346.81" y="4421.76" width="141.17" height="90.00" rx="12" ry="12" fill="#b2f2bb" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2032.18 4456.35 L 1493.98 4445.06" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2899.10" y="5347.36" width="279.37" height="110.00" rx="12" ry="12" fill="#ffc9c9" stroke="#2f9e44" stroke-width="2" />
+<rect x="2868.68" y="4801.98" width="320.33" height="235.00" rx="12" ry="12" fill="#ffc9c9" stroke="#2f9e44" stroke-width="2" />
+<rect x="3373.45" y="4839.45" width="393.57" height="156.24" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 3195.01 4919.45 L 3367.45 4917.65" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1994.55" y="4750.27" width="656.37" height="336.31" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2656.92 4918.48 L 2862.68 4919.48" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1986.11" y="5141.04" width="663.51" height="443.45" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2655.62 5476.76 L 2893.10 5424.51" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 2655.62 5300.66 L 2897.19 5356.14" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1987.54" y="4092.47" width="657.80" height="629.17" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1996.83" y="3903.18" width="646.37" height="143.45" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="185.76" y="7022.20" width="202.86" height="154.00" rx="12" ry="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<rect x="739.62" y="6961.74" width="359.00" height="268.40" rx="12" ry="12" fill="#ffec99" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 387.38 7091.76 L 733.62 7095.89" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1648.03" y="6950.93" width="357.06" height="274.17" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1104.62 7095.87 L 1642.03 7088.13" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2500.81" y="6964.05" width="357.06" height="274.17" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1661.41" y="7055.02" width="331.45" height="120.99" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2011.09 7088.20 L 2494.81 7101.01" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="3748.70" y="6942.71" width="425.42" height="297.49" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2863.88 7005.53 L 3161.98 7006.51" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="3219.02" y="7712.66" width="336.51" height="260.39" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="3769.38" y="7701.72" width="388.75" height="266.92" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 3833.76 7246.20 L 3831.46 7695.72" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 3763.38 7838.44 L 3561.53 7840.09" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 4126.80 7695.73 L 4121.28 7238.25" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 3742.70 7174.48 L 2863.88 7179.06" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 2494.81 7171.01 L 2011.09 7170.39" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 1649.79 7174.45 L 1104.62 7182.79" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="3167.98" y="6941.54" width="302.55" height="129.97" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="4613.34" y="7707.56" width="345.88" height="255.74" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 4156.98 7810.79 L 4607.34 7806.89" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="5508.29" y="7708.66" width="336.51" height="251.66" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 4965.22 7835.45 L 5502.29 7834.53" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2766.73" y="7705.20" width="336.51" height="262.91" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 3213.02 7840.19 L 3109.25 7839.37" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 3476.53 7006.60 L 3742.70 7009.71" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="4837.79" y="8121.33" width="416.99" height="172.08" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 5024.41 8292.78 L 4881.30 8455.44" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="4443.35" y="8146.39" width="345.88" height="172.08" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 4794.87 7969.30 L 5019.10 8126.51" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 4689.51 7969.30 L 4596.20 8119.52" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="-504.80" y="9509.68" width="202.86" height="154.00" rx="12" ry="12" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2" />
+<rect x="49.05" y="9449.22" width="359.00" height="268.40" rx="12" ry="12" fill="#ffec99" stroke="#1e1e1e" stroke-width="2" />
+<path d="M -303.19 9579.24 L 43.05 9583.38" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 414.06 9583.36 L 951.47 9575.62" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1665.25" y="9449.04" width="505.40" height="274.17" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1009.09" y="9542.50" width="258.85" height="148.49" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1320.53 9575.69 L 1659.25 9585.97" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 1659.25 9656.20 L 1320.53 9657.88" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 959.23 9661.94 L 414.06 9670.28" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1717.84" y="10187.47" width="480.85" height="246.04" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1764.02" y="9904.02" width="394.21" height="112.75" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 1932.98 9729.21 L 1931.52 9885.40" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 1964.07 10012.76 L 1957.35 10193.85" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2463.26" y="9571.10" width="491.43" height="181.43" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2208.31 10283.50 L 2457.26 9665.31" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2452.87" y="9897.21" width="491.43" height="192.86" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2697.15 9749.36 L 2698.57 9891.21" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="3172.51" y="9909.89" width="551.43" height="171.43" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2939.41 9994.59 L 3174.65 9993.34" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2678.94" y="10228.70" width="425.71" height="187.14" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 3286.10 10087.32 L 3039.25 10222.70" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="3777.76" y="12058.52" width="241.43" height="162.86" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="253.77" y="12511.21" width="300.00" height="310.00" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="328.07" y="12621.30" width="145.71" height="91.43" rx="12" ry="12" fill="transparent" stroke="#f08c00" stroke-width="2" />
+<rect x="1791.26" y="12962.79" width="241.43" height="162.86" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1863.82" y="13023.86" width="97.00" height="35.00" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="181.47" y="12041.29" width="397.39" height="210.80" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="-258.03" y="12071.12" width="178.57" height="92.86" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1898.20" y="12096.27" width="145.71" height="91.43" rx="12" ry="12" fill="transparent" stroke="#f08c00" stroke-width="2" />
+<path d="M 2792.48 12430.27 L 3191.35 12515.79" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1796.46" y="13248.21" width="241.43" height="162.86" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="1823.31" y="13307.86" width="191.29" height="60.00" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 401.62 12233.58 L 403.75 12505.21" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 1912.25 13131.64 L 1916.95 13242.21" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="1600.70" y="12091.53" width="145.71" height="91.43" rx="12" ry="12" fill="transparent" stroke="#f08c00" stroke-width="2" />
+<path d="M 1742.91 12138.84 L 1892.20 12141.87" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2127.89" y="12056.82" width="226.87" height="185.46" rx="12" ry="12" fill="transparent" stroke="#f08c00" stroke-width="2" />
+<path d="M 2121.89 12199.57 L 2053.61 12295.51 L 1913.27 12956.79" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 2241.72 12248.28 L 2248.43 12356.75" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 2049.92 12142.54 L 2121.89 12149.03" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="2131.57" y="12362.75" width="234.43" height="91.43" rx="12" ry="12" fill="transparent" stroke="#f08c00" stroke-width="2" />
+<rect x="2474.27" y="12295.85" width="312.22" height="185.46" rx="12" ry="12" fill="transparent" stroke="#f08c00" stroke-width="2" />
+<path d="M 2372.00 12408.35 L 2468.27 12406.38" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="840.12" y="12072.12" width="226.88" height="123.52" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 559.77 12616.67 L 860.59 12200.70" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 1065.80 12135.78 L 1602.34 12134.61" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="286.71" y="12087.40" width="226.57" height="60.00" rx="12" ry="12" fill="transparent" stroke="#f08c00" stroke-width="2" />
+<path d="M -73.45 12117.55 L 280.71 12117.41" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 519.28 12117.71 L 834.12 12133.59" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="288.26" y="12167.58" width="226.57" height="60.00" rx="12" ry="12" fill="transparent" stroke="#f08c00" stroke-width="2" />
+<rect x="3197.35" y="12456.63" width="207.43" height="120.86" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 2360.76 12149.53 L 3309.50 12143.22" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="3306.06" y="12059.52" width="241.43" height="162.86" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 3553.49 12140.84 L 3779.03 12136.30" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="800.08" y="11907.61" width="393.21" height="369.88" rx="12" ry="12" fill="transparent" stroke="#e03131" stroke-width="4" />
+<rect x="1512.68" y="11740.12" width="1329.81" height="898.12" rx="12" ry="12" fill="transparent" stroke="#e03131" stroke-width="4" />
+<rect x="3159.43" y="12360.45" width="271.77" height="255.64" rx="12" ry="12" fill="transparent" stroke="#e03131" stroke-width="4" />
+<rect x="4624.44" y="8461.44" width="503.06" height="408.62" rx="12" ry="12" fill="#ffc9c9" stroke="#1e1e1e" stroke-width="2" />
+<rect x="4686.21" y="8512.37" width="366.80" height="312.90" rx="0" ry="0" fill="transparent" stroke="#1e1e1e" stroke-width="1" />
+<rect x="4443.56" y="6955.42" width="388.75" height="266.92" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 4180.11 7091.43 L 4437.56 7088.97" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="4996.04" y="6964.08" width="366.47" height="255.74" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 4832.03 7092.78 L 4990.04 7092.01" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="5028.30" y="6621.53" width="336.51" height="251.66" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 5179.42 6958.08 L 5180.88 6873.70" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="5592.47" y="6841.74" width="454.99" height="172.08" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="5642.04" y="7159.31" width="345.88" height="172.08" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 5368.51 7044.44 L 5586.47 6930.92" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 5360.89 7127.75 L 5636.04 7242.86" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="6507.97" y="6888.18" width="503.06" height="408.62" rx="12" ry="12" fill="#ffc9c9" stroke="#1e1e1e" stroke-width="2" />
+<rect x="6568.40" y="6937.45" width="366.80" height="312.90" rx="0" ry="0" fill="transparent" stroke="#1e1e1e" stroke-width="1" />
+<path d="M 6053.46 6929.94 L 6501.97 7090.39" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="7999.19" y="7006.69" width="454.99" height="172.08" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<rect x="8689.74" y="7014.46" width="454.99" height="172.08" rx="12" ry="12" fill="#ffec99" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 8451.90 7093.91 L 8683.74 7100.35" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 9143.14 7106.88 L 9320.41 7112.42" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="4290.60" y="6451.54" width="2846.41" height="2468.78" rx="12" ry="12" fill="transparent" stroke="#2f9e44" stroke-width="4" />
+<rect x="7361.51" y="7005.67" width="454.99" height="172.08" rx="12" ry="12" fill="#ffec99" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 7017.04 7092.52 L 7355.51 7091.74" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<path d="M 7814.01 7091.73 L 7993.19 7092.72" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="8640.67" y="7402.04" width="560.00" height="80.00" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="4" />
+<path d="M 8917.38 7192.54 L 8920.62 7395.04" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="3269.21" y="10307.47" width="493.77" height="421.26" rx="12" ry="12" fill="#ffc9c9" stroke="#1e1e1e" stroke-width="4" />
+<path d="M 3450.08 10087.32 L 3514.05 10300.47" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<rect x="3301.22" y="10367.61" width="422.80" height="312.90" rx="0" ry="0" fill="#ffc9c9" stroke="#1e1e1e" stroke-width="1" />
+<rect x="3764.88" y="11711.34" width="433.93" height="240.36" rx="12" ry="12" fill="transparent" stroke="#1e1e1e" stroke-width="2" />
+<path d="M 3535.60 12075.27 L 3758.88 11837.92" fill="none" stroke="#1e1e1e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowhead)" />
+<text x="9524.63" y="6926.96" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="9524.63" dy="0.00">DynamoDB</tspan>
+</text>
+<text x="2124.11" y="11544.09" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1e1e1e">
+<tspan x="2124.11" dy="0.00">VPC</tspan>
+</text>
+<text x="2013.88" y="11682.54" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1e1e1e">
+<tspan x="2013.88" dy="0.00">Private APP Subnets</tspan>
+<tspan x="2013.88" dy="35.00">AZ-a /AZ-b</tspan>
+</text>
+<text x="892.20" y="11849.06" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1e1e1e">
+<tspan x="892.20" dy="0.00">Public Subnets</tspan>
+<tspan x="892.20" dy="35.00">AZ-a/AZ-b</tspan>
+</text>
+<text x="3170.49" y="12297.07" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1e1e1e">
+<tspan x="3170.49" dy="0.00">Private DB Subnets</tspan>
+<tspan x="3170.49" dy="35.00">AZ-a / AZ-b</tspan>
+</text>
+<text x="2066.22" y="11940.58" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2066.22" dy="0.00">EKS Cluster</tspan>
+<tspan x="2066.22" dy="25.00">namespace: cashflow-prd </tspan>
+</text>
+<text x="1188.74" y="3928.00" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="1188.74" dy="0.00">FRONT-END </tspan>
+</text>
+<text x="866.99" y="5027.07" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="866.99" dy="0.00">1 - Usuário acesso Dashboad</tspan>
+<tspan x="866.99" dy="25.00">do Sistema</tspan>
+</text>
+<text x="1168.09" y="4241.91" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="1168.09" dy="0.00">Autentication Provider</tspan>
+<tspan x="1168.09" dy="37.50">(IdP - Cognito)</tspan>
+</text>
+<text x="1007.23" y="3692.73" font-family="Arial, Helvetica, sans-serif" font-size="53.14384647421464" font-weight="600" fill="#1e1e1e">
+<tspan x="1007.23" dy="0.00">1 - Flxuo De Autenticação e Autorização</tspan>
+</text>
+<text x="888.88" y="9313.03" font-family="Arial, Helvetica, sans-serif" font-size="56.000000000000014" font-weight="600" fill="#1e1e1e">
+<tspan x="888.88" dy="0.00">3 - Flxuo De Consulta de Relatório de FLuxo de Caixa</tspan>
+</text>
+<text x="595.30" y="3925.32" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="595.30" dy="0.00">USUÁRIO</tspan>
+</text>
+<text x="2177.04" y="3859.74" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="2177.04" dy="0.00">BFF -  Backend Web</tspan>
+</text>
+<text x="1668.18" y="5017.68" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1668.18" dy="0.00">2 - Chama api/session</tspan>
+</text>
+<text x="2078.36" y="3963.12" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="2078.36" dy="0.00">2.1- Verifica Sessão</tspan>
+<tspan x="2078.36" dy="20.00">Inexistente</tspan>
+</text>
+<text x="1193.86" y="4868.69" font-family="Arial, Helvetica, sans-serif" font-size="27.119915193899203" font-weight="400" fill="#1e1e1e">
+<tspan x="1193.86" dy="0.00">AZURE - MICROSOFT</tspan>
+<tspan x="1193.86" dy="33.90"> ENTRA ID / AD FS</tspan>
+</text>
+<text x="1148.68" y="3869.31" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="1148.68" dy="0.00">https://dashboard.fluxodecaixa.com</tspan>
+</text>
+<text x="1210.76" y="3979.54" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="1210.76" dy="0.00"> Angular</tspan>
+</text>
+<text x="1309.20" y="5553.74" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="1309.20" dy="0.00">Federeração com</tspan>
+<tspan x="1309.20" dy="20.00">Azure</tspan>
+</text>
+<text x="565.18" y="4783.93" font-family="Arial, Helvetica, sans-serif" font-size="23.521680354647078" font-weight="400" fill="#1e1e1e">
+<tspan x="565.18" dy="0.00">LOGIN/SSO</tspan>
+</text>
+<text x="946.64" y="5620.38" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="946.64" dy="0.00">6 - Redireciona</tspan>
+</text>
+<text x="797.19" y="5239.88" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="797.19" dy="0.00">4 - Usuário entra com</tspan>
+<tspan x="797.19" dy="25.00">credenciais</tspan>
+</text>
+<text x="919.62" y="5960.64" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="919.62" dy="0.00">7 - Envia Credenciais</tspan>
+</text>
+<text x="1649.78" y="5146.64" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="1649.78" dy="0.00">3 - Retorna - 401/Unauthorized</tspan>
+</text>
+<text x="2062.87" y="4157.93" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="2062.87" dy="0.00">4.1- Cria state, nonce,</tspan>
+<tspan x="2062.87" dy="20.00">code_verifier e gera</tspan>
+<tspan x="2062.87" dy="20.00">code_chanlenge usando o</tspan>
+<tspan x="2062.87" dy="20.00">cod_verifier</tspan>
+</text>
+<text x="1658.55" y="5184.93" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1658.55" dy="0.00">4- Chama api/auth/login </tspan>
+</text>
+<text x="1521.80" y="5391.18" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1521.80" dy="0.00">5 -Redireciona para</tspan>
+<tspan x="1521.80" dy="25.00">auth2/authorize?redirect=api/auh/callback</tspan>
+</text>
+<text x="2045.60" y="4452.47" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="2045.60" dy="0.00">8.1- Valida campos enviados no</tspan>
+<tspan x="2045.60" dy="20.00">redirecionamento</tspan>
+</text>
+<text x="1639.51" y="5492.26" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1639.51" dy="0.00">8 - Usuário Autenticado e Redireciona:</tspan>
+<tspan x="1639.51" dy="25.00">api/auth/callback?code=XXX</tspan>
+</text>
+<text x="1714.26" y="5600.86" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1714.26" dy="0.00">9 Envia authorization_code,</tspan>
+<tspan x="1714.26" dy="25.00">redirect_uri, code_verifier (</tspan>
+<tspan x="1714.26" dy="25.00">auth2/oauth/token)</tspan>
+</text>
+<text x="1703.43" y="6058.55" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1703.43" dy="0.00">10 - Envia id_token/access_token</tspan>
+</text>
+<text x="2057.73" y="4654.44" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="2057.73" dy="0.00">10.1- Valida tokens enviados</tspan>
+</text>
+<text x="2056.60" y="4917.96" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="2056.60" dy="0.00">10.2- Verifica no Sistema se</tspan>
+<tspan x="2056.60" dy="20.00">Usuário tem Autorização no</tspan>
+<tspan x="2056.60" dy="20.00">Sistema de Fluxo de Caixa</tspan>
+</text>
+<text x="2046.55" y="5296.56" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="2046.55" dy="0.00">10.3-Cria Sessão de Usuário e</tspan>
+<tspan x="2046.55" dy="20.00">retorna Cookie de Sessão</tspan>
+<tspan x="2046.55" dy="20.00">(Http Only) </tspan>
+</text>
+<text x="1331.92" y="5414.77" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="1331.92" dy="0.00">FRONT-END </tspan>
+</text>
+<text x="1801.24" y="6473.03" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1801.24" dy="0.00">Redireciona </tspan>
+</text>
+<text x="2078.87" y="5504.09" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="2078.87" dy="0.00">11.2-Verifica Sessão Valida</tspan>
+</text>
+<text x="1294.86" y="5311.56" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="1294.86" dy="0.00">https://dashboard.fluxodecaixa.com</tspan>
+</text>
+<text x="1756.62" y="6611.52" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1756.62" dy="0.00">11 - Chama api/session</tspan>
+</text>
+<text x="1738.07" y="6649.56" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1738.07" dy="0.00">12 - Retorna Sessão Válida</tspan>
+</text>
+<text x="1379.24" y="5714.42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1379.24" dy="0.00">Usuário Autenticado</tspan>
+</text>
+<text x="1182.74" y="4372.34" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="1182.74" dy="0.00">5.1 - Chama IdP</tspan>
+<tspan x="1182.74" dy="20.00">da Microsoft</tspan>
+</text>
+<text x="1352.05" y="4452.76" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="1352.05" dy="0.00">9.1 - Valida Code</tspan>
+<tspan x="1352.05" dy="20.00">Challenge e</tspan>
+<tspan x="1352.05" dy="20.00">emite os tokens </tspan>
+</text>
+<text x="1339.07" y="5467.24" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="1339.07" dy="0.00"> Angular</tspan>
+</text>
+<text x="2925.04" y="5372.36" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2925.04" dy="0.00">DynamoDB</tspan>
+<tspan x="2925.04" dy="25.00"></tspan>
+<tspan x="2925.04" dy="25.00">Guardar a Sessão de</tspan>
+<tspan x="2925.04" dy="25.00">Usuário (SESSION_ID)</tspan>
+</text>
+<text x="2881.38" y="4826.98" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2881.38" dy="0.00">POSTGRESql</tspan>
+<tspan x="2881.38" dy="25.00"></tspan>
+<tspan x="2881.38" dy="25.00">Dados de Identidade de</tspan>
+<tspan x="2881.38" dy="25.00">Usuário</tspan>
+<tspan x="2881.38" dy="25.00"> (Nome, Email, Sub, Provider)</tspan>
+<tspan x="2881.38" dy="25.00"></tspan>
+<tspan x="2881.38" dy="25.00">Roles, Permissões e Regras de</tspan>
+<tspan x="2881.38" dy="25.00">Acesso</tspan>
+<tspan x="2881.38" dy="25.00"></tspan>
+</text>
+<text x="1300.31" y="4594.39" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="1300.31" dy="0.00">Autentication Provider</tspan>
+<tspan x="1300.31" dy="37.50">(IdP - Cognito)</tspan>
+</text>
+<text x="1171.76" y="4762.49" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="1171.76" dy="0.00">External Autentication</tspan>
+<tspan x="1171.76" dy="37.50">Provider</tspan>
+</text>
+<text x="3472.03" y="4873.83" font-family="Arial, Helvetica, sans-serif" font-size="16.166666666666654" font-weight="400" fill="#1e1e1e">
+<tspan x="3472.03" dy="0.00">AQUI PODERIA TER</tspan>
+<tspan x="3472.03" dy="20.21">UM MOTOR DE</tspan>
+<tspan x="3472.03" dy="20.21">POLICIES EXTERNO -</tspan>
+<tspan x="3472.03" dy="20.21">POLICY ENGINE (OPA,</tspan>
+<tspan x="3472.03" dy="20.21">AWS Cedar, Spring</tspan>
+<tspan x="3472.03" dy="20.21">Securiy, .Net Policies</tspan>
+</text>
+<text x="2430.53" y="4798.53" font-family="Arial, Helvetica, sans-serif" font-size="17.249999999999993" font-weight="400" fill="#1e1e1e">
+<tspan x="2430.53" dy="0.00">AuthorizationService</tspan>
+<tspan x="2430.53" dy="21.56">(Decisão de Acesso)</tspan>
+<tspan x="2430.53" dy="21.56"></tspan>
+<tspan x="2430.53" dy="21.56"> api/authorization/</tspan>
+</text>
+<text x="2445.75" y="5200.46" font-family="Arial, Helvetica, sans-serif" font-size="17.249999999999993" font-weight="400" fill="#1e1e1e">
+<tspan x="2445.75" dy="0.00">SessionService </tspan>
+<tspan x="2445.75" dy="21.56"></tspan>
+<tspan x="2445.75" dy="21.56">api/createSession/</tspan>
+<tspan x="2445.75" dy="21.56">api/session</tspan>
+</text>
+<text x="2408.61" y="4146.18" font-family="Arial, Helvetica, sans-serif" font-size="17.249999999999993" font-weight="400" fill="#1e1e1e">
+<tspan x="2408.61" dy="0.00">AuthenticaionService</tspan>
+<tspan x="2408.61" dy="21.56"></tspan>
+<tspan x="2408.61" dy="21.56">api/auth/callback</tspan>
+<tspan x="2408.61" dy="21.56">api/auth/login</tspan>
+<tspan x="2408.61" dy="21.56"></tspan>
+<tspan x="2408.61" dy="21.56"></tspan>
+</text>
+<text x="2407.89" y="3937.61" font-family="Arial, Helvetica, sans-serif" font-size="17.249999999999993" font-weight="400" fill="#1e1e1e">
+<tspan x="2407.89" dy="0.00">SessionService </tspan>
+<tspan x="2407.89" dy="21.56"></tspan>
+<tspan x="2407.89" dy="21.56">api/createSession/</tspan>
+<tspan x="2407.89" dy="21.56">api/session</tspan>
+</text>
+<text x="1050.05" y="6785.58" font-family="Arial, Helvetica, sans-serif" font-size="53.14384647421464" font-weight="600" fill="#1e1e1e">
+<tspan x="1050.05" dy="0.00">2 - Fluxo De Inclusão de Lançamento no Fluxo de Caixa - Usando Java SpringBoot</tspan>
+</text>
+<text x="220.00" y="7083.77" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="220.00" dy="0.00">USUÁRIO</tspan>
+<tspan x="220.00" dy="25.00"></tspan>
+<tspan x="220.00" dy="25.00">Autenticado</tspan>
+</text>
+<text x="810.86" y="7085.40" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="810.86" dy="0.00">FRONT-END </tspan>
+</text>
+<text x="754.40" y="7018.51" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="754.40" dy="0.00">https://app..fluxodecaixa.com/lancamento</tspan>
+</text>
+<text x="832.88" y="7136.94" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="832.88" dy="0.00"> Angular</tspan>
+<tspan x="832.88" dy="37.50"></tspan>
+</text>
+<text x="666.44" y="7406.96" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="666.44" dy="0.00">1 - Cria um Lançamento</tspan>
+<tspan x="666.44" dy="25.00">no Fluxo de Caixa</tspan>
+</text>
+<text x="1670.40" y="7014.78" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="1670.40" dy="0.00">BFF -  Backend Web</tspan>
+</text>
+<text x="1448.64" y="7410.73" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1448.64" dy="0.00">Chama API de Lançamento de</tspan>
+<tspan x="1448.64" dy="25.00">Transação</tspan>
+</text>
+<text x="2571.08" y="7040.30" font-family="Arial, Helvetica, sans-serif" font-size="19.945754201967762" font-weight="400" fill="#1e1e1e">
+<tspan x="2571.08" dy="0.00">TransactionController</tspan>
+</text>
+<text x="1697.55" y="7119.67" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1697.55" dy="0.00">CashFlowTransactionClient</tspan>
+</text>
+<text x="2096.12" y="7423.04" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2096.12" dy="0.00">Chama API de Lançamento de</tspan>
+<tspan x="2096.12" dy="25.00">Transação</tspan>
+</text>
+<text x="2527.12" y="7105.92" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2527.12" dy="0.00"> POST /api/v1/transactions</tspan>
+</text>
+<text x="3013.29" y="7410.25" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3013.29" dy="0.00">creates(request)</tspan>
+</text>
+<text x="3792.21" y="7022.29" font-family="Arial, Helvetica, sans-serif" font-size="20.574144564344877" font-weight="400" fill="#1e1e1e">
+<tspan x="3792.21" dy="0.00">CreateTransactionUseCase</tspan>
+</text>
+<text x="2530.53" y="7144.10" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2530.53" dy="0.00">createTransaction(Request)</tspan>
+</text>
+<text x="3323.84" y="7762.42" font-family="Arial, Helvetica, sans-serif" font-size="18.84871678539868" font-weight="400" fill="#1e1e1e">
+<tspan x="3323.84" dy="0.00">Transaction</tspan>
+</text>
+<text x="3835.20" y="7772.85" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3835.20" dy="0.00">TransactionRepository</tspan>
+</text>
+<text x="3702.83" y="7656.72" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3702.83" dy="0.00">call execute(</tspan>
+<tspan x="3702.83" dy="25.00">transactionCommand)</tspan>
+</text>
+<text x="3239.14" y="7819.78" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3239.14" dy="0.00">UUID transactionId</tspan>
+<tspan x="3239.14" dy="25.00">BigDecimal ammount</tspan>
+<tspan x="3239.14" dy="25.00">DateTime date</tspan>
+<tspan x="3239.14" dy="25.00">String descripion</tspan>
+<tspan x="3239.14" dy="25.00">TransactionType type</tspan>
+<tspan x="3239.14" dy="25.00">Dateime createdAt</tspan>
+<tspan x="3239.14" dy="25.00"></tspan>
+</text>
+<text x="3797.13" y="7830.87" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3797.13" dy="0.00">save(transaction)</tspan>
+</text>
+<text x="4214.34" y="7906.28" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4214.34" dy="0.00">new</tspan>
+</text>
+<text x="4065.70" y="7664.41" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4065.70" dy="0.00">Result</tspan>
+</text>
+<text x="3124.72" y="7511.64" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3124.72" dy="0.00">Result</tspan>
+</text>
+<text x="2234.26" y="7499.12" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2234.26" dy="0.00">201 Created</tspan>
+</text>
+<text x="1468.28" y="7497.98" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1468.28" dy="0.00">Lançamento Realizado com Sucesso</tspan>
+</text>
+<text x="2611.48" y="7007.72" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2611.48" dy="0.00">&lt;&lt;Controller&gt;&gt;</tspan>
+</text>
+<text x="3328.47" y="7735.36" font-family="Arial, Helvetica, sans-serif" font-size="18.84871678539868" font-weight="400" fill="#1e1e1e">
+<tspan x="3328.47" dy="0.00">&lt;&lt;domain&gt;&gt;</tspan>
+</text>
+<text x="3195.61" y="7009.45" font-family="Arial, Helvetica, sans-serif" font-size="18.84871678539868" font-weight="400" fill="#1e1e1e">
+<tspan x="3195.61" dy="0.00">CreateTransactionCommand</tspan>
+</text>
+<text x="3854.74" y="6988.64" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3854.74" dy="0.00">&lt;&lt;applicattion&gt;&gt;</tspan>
+</text>
+<text x="3775.27" y="7084.04" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3775.27" dy="0.00">execute(transactionalCommand)</tspan>
+<tspan x="3775.27" dy="25.00">saveOutboxEvent(transactionCreated)</tspan>
+<tspan x="3775.27" dy="25.00"></tspan>
+<tspan x="3775.27" dy="25.00"></tspan>
+</text>
+<text x="3848.18" y="7735.23" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3848.18" dy="0.00">&lt;&lt;damain interface&gt;&gt;</tspan>
+</text>
+<text x="3393.90" y="7906.46" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3393.90" dy="0.00">implements</tspan>
+</text>
+<text x="4639.97" y="7787.49" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4639.97" dy="0.00">TransactionRepositoryAdapter</tspan>
+</text>
+<text x="5576.42" y="7761.85" font-family="Arial, Helvetica, sans-serif" font-size="18.84871678539868" font-weight="400" fill="#1e1e1e">
+<tspan x="5576.42" dy="0.00">TransactionEntity</tspan>
+</text>
+<text x="5533.12" y="7814.21" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="5533.12" dy="0.00">UUID transactionId</tspan>
+<tspan x="5533.12" dy="25.00">BigDecimal ammount</tspan>
+<tspan x="5533.12" dy="25.00">DateTime date</tspan>
+<tspan x="5533.12" dy="25.00">String description</tspan>
+<tspan x="5533.12" dy="25.00">TransactionType type</tspan>
+<tspan x="5533.12" dy="25.00">Instant createdAt</tspan>
+<tspan x="5533.12" dy="25.00"></tspan>
+</text>
+<text x="5614.60" y="7732.93" font-family="Arial, Helvetica, sans-serif" font-size="18.84871678539868" font-weight="400" fill="#1e1e1e">
+<tspan x="5614.60" dy="0.00">&lt;&lt;infra&gt;&gt;</tspan>
+</text>
+<text x="2865.96" y="7762.54" font-family="Arial, Helvetica, sans-serif" font-size="18.84871678539868" font-weight="400" fill="#1e1e1e">
+<tspan x="2865.96" dy="0.00">TransactionType</tspan>
+</text>
+<text x="4738.38" y="7747.88" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4738.38" dy="0.00">&lt;&lt;infra&gt;&gt;</tspan>
+</text>
+<text x="3804.77" y="7865.11" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3804.77" dy="0.00">findbyId(transactionalId)</tspan>
+</text>
+<text x="2868.07" y="7736.03" font-family="Arial, Helvetica, sans-serif" font-size="18.84871678539868" font-weight="400" fill="#1e1e1e">
+<tspan x="2868.07" dy="0.00">&lt;&lt;domain, enum&gt;&gt;</tspan>
+</text>
+<text x="4656.00" y="7881.56" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4656.00" dy="0.00">save(transaction)</tspan>
+</text>
+<text x="4658.00" y="7922.05" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4658.00" dy="0.00">findbyId(transactionalId)</tspan>
+</text>
+<text x="2801.18" y="7836.17" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2801.18" dy="0.00">CREDIT</tspan>
+</text>
+<text x="2801.06" y="7873.87" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2801.06" dy="0.00">DEBIT</tspan>
+</text>
+<text x="3235.09" y="6981.50" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3235.09" dy="0.00">&lt;&lt;applicattion&gt;&gt;</tspan>
+</text>
+<text x="4872.04" y="8179.98" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4872.04" dy="0.00">SpringDataTransactionJpaRepository </tspan>
+</text>
+<text x="4874.45" y="8213.74" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4874.45" dy="0.00">save(transactionEntity)</tspan>
+</text>
+<text x="4874.96" y="8249.74" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4874.96" dy="0.00">findbyId(transactionalId)</tspan>
+</text>
+<text x="3047.45" y="8121.14" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3047.45" dy="0.00">delegates</tspan>
+</text>
+<text x="4462.84" y="8205.07" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4462.84" dy="0.00">TransactionPersistenceMapper </tspan>
+</text>
+<text x="4980.52" y="8150.74" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4980.52" dy="0.00">&lt;&lt;infra&gt;&gt;</tspan>
+</text>
+<text x="4474.55" y="8253.87" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4474.55" dy="0.00">toEntity(transaction)</tspan>
+<tspan x="4474.55" dy="25.00">toDomain(transactionEntity)</tspan>
+</text>
+<text x="2808.29" y="8117.64" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2808.29" dy="0.00">uses</tspan>
+</text>
+<text x="-470.57" y="9571.26" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="-470.57" dy="0.00">USUÁRIO</tspan>
+<tspan x="-470.57" dy="25.00"></tspan>
+<tspan x="-470.57" dy="25.00">Autenticado</tspan>
+</text>
+<text x="120.30" y="9572.89" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="120.30" dy="0.00">FRONT-END </tspan>
+</text>
+<text x="77.18" y="9511.14" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="77.18" dy="0.00">https://app.fluxodecaixa.com/dashboard</tspan>
+</text>
+<text x="142.32" y="9624.43" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="142.32" dy="0.00"> Angular</tspan>
+</text>
+<text x="-249.98" y="9576.31" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="-249.98" dy="0.00">1 - Consulta Consolidado</tspan>
+<tspan x="-249.98" dy="25.00">diário do Fluxo de Caixa</tspan>
+</text>
+<text x="979.84" y="9502.27" font-family="Arial, Helvetica, sans-serif" font-size="29.99999999999997" font-weight="600" fill="#1e1e1e">
+<tspan x="979.84" dy="0.00">BFF -  Backend Web</tspan>
+</text>
+<text x="538.58" y="9574.49" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="538.58" dy="0.00">Chama API de Lançamento de</tspan>
+<tspan x="538.58" dy="25.00">Transação</tspan>
+</text>
+<text x="1745.52" y="9521.12" font-family="Arial, Helvetica, sans-serif" font-size="19.945754201967762" font-weight="400" fill="#1e1e1e">
+<tspan x="1745.52" dy="0.00">DailyCashFlowSummaryController</tspan>
+</text>
+<text x="1028.40" y="9620.93" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1028.40" dy="0.00">CashFlowSummaryClient</tspan>
+</text>
+<text x="1375.06" y="9575.83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1375.06" dy="0.00">Chama API de resumo</tspan>
+<tspan x="1375.06" dy="25.00">diário de fluxo de caixa</tspan>
+</text>
+<text x="1699.89" y="9558.40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1699.89" dy="0.00"> Get /api/v1cash-flow/summary/daily?date=?</tspan>
+</text>
+<text x="1693.30" y="9664.93" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1693.30" dy="0.00">createQuery(Request)</tspan>
+</text>
+<text x="1500.10" y="9665.69" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1500.10" dy="0.00">200 Success</tspan>
+</text>
+<text x="524.76" y="9661.11" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="524.76" dy="0.00">Consolidado diário retornado com</tspan>
+<tspan x="524.76" dy="25.00">sucesso</tspan>
+</text>
+<text x="1835.92" y="9490.21" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1835.92" dy="0.00">&lt;&lt;controller&gt;&gt;</tspan>
+</text>
+<text x="1814.46" y="10251.34" font-family="Arial, Helvetica, sans-serif" font-size="18.051667539748475" font-weight="400" fill="#1e1e1e">
+<tspan x="1814.46" dy="0.00">GetDailyCashFlowSummaryUseCase</tspan>
+</text>
+<text x="1901.24" y="9842.31" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1901.24" dy="0.00">creates</tspan>
+</text>
+<text x="1792.36" y="9965.01" font-family="Arial, Helvetica, sans-serif" font-size="19.945754201967762" font-weight="400" fill="#1e1e1e">
+<tspan x="1792.36" dy="0.00">GetDailyCashFlowSummaryQuery</tspan>
+</text>
+<text x="1878.36" y="10219.85" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1878.36" dy="0.00">&lt;&lt;applicattion&gt;&gt;</tspan>
+</text>
+<text x="1742.55" y="10303.96" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1742.55" dy="0.00">execute(getDailyCashFlowSummaryQuery)</tspan>
+</text>
+<text x="2572.10" y="9635.01" font-family="Arial, Helvetica, sans-serif" font-size="18.051667539748475" font-weight="400" fill="#1e1e1e">
+<tspan x="2572.10" dy="0.00">DailyCashFlowSummaryRepository</tspan>
+</text>
+<text x="2488.58" y="9688.28" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2488.58" dy="0.00">getDailyConsolidaded(date)</tspan>
+</text>
+<text x="2642.87" y="9601.14" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2642.87" dy="0.00">&lt;&lt;interface&gt;&gt;</tspan>
+</text>
+<text x="2942.58" y="10092.78" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2942.58" dy="0.00">implements</tspan>
+</text>
+<text x="2515.93" y="9957.55" font-family="Arial, Helvetica, sans-serif" font-size="18.051667539748475" font-weight="400" fill="#1e1e1e">
+<tspan x="2515.93" dy="0.00">DailyCashFlowSummaryRepositoryAdapter</tspan>
+</text>
+<text x="2469.65" y="10028.28" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2469.65" dy="0.00">getDailyCashFlowSummary(date)</tspan>
+</text>
+<text x="3205.28" y="9960.25" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3205.28" dy="0.00">SpringDataDailyCashFlowSummaryJpaRepository</tspan>
+</text>
+<text x="2646.81" y="9926.86" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2646.81" dy="0.00">&lt;&lt;infra&gt;&gt;</tspan>
+</text>
+<text x="3328.50" y="10266.47" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3328.50" dy="0.00">Uses</tspan>
+</text>
+<text x="3378.84" y="9941.20" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3378.84" dy="0.00">&lt;&lt;infra&gt;&gt;</tspan>
+</text>
+<text x="3186.91" y="10028.34" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3186.91" dy="0.00">getDailyCashFlowSummary(date)</tspan>
+</text>
+<text x="2720.84" y="10274.77" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2720.84" dy="0.00">DailyCashFlowSummaryDTO</tspan>
+</text>
+<text x="3435.97" y="10427.51" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3435.97" dy="0.00">uses</tspan>
+</text>
+<text x="2723.22" y="10317.63" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2723.22" dy="0.00">LocalDate datte</tspan>
+<tspan x="2723.22" dy="25.00">BigDecimal ammount</tspan>
+<tspan x="2723.22" dy="25.00">Transactions[] transactions</tspan>
+<tspan x="2723.22" dy="25.00"></tspan>
+</text>
+<text x="1047.01" y="11284.83" font-family="Arial, Helvetica, sans-serif" font-size="56.000000000000014" font-weight="600" fill="#1e1e1e">
+<tspan x="1047.01" dy="0.00">4 - Desenho Físico/Deployment - Fluxo de Caixa</tspan>
+</text>
+<text x="1477.55" y="11355.88" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="#1e1e1e">
+<tspan x="1477.55" dy="0.00">AWS Region: us-east-1</tspan>
+<tspan x="1477.55" dy="45.00"></tspan>
+</text>
+<text x="3846.32" y="12083.52" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3846.32" dy="0.00">DynamoDB</tspan>
+</text>
+<text x="335.75" y="12536.21" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="335.75" dy="0.00">S3 Bucket:</tspan>
+<tspan x="335.75" dy="25.00">angular-static</tspan>
+<tspan x="335.75" dy="25.00"></tspan>
+</text>
+<text x="348.91" y="12662.01" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="348.91" dy="0.00">Angular</tspan>
+<tspan x="348.91" dy="25.00">Static App</tspan>
+</text>
+<text x="1874.90" y="12987.79" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1874.90" dy="0.00">Cognito</tspan>
+</text>
+<text x="1869.17" y="13048.86" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1869.17" dy="0.00">UserPool</tspan>
+</text>
+<text x="326.57" y="12066.29" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="326.57" dy="0.00">CloudFront</tspan>
+</text>
+<text x="-208.32" y="12125.05" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="-208.32" dy="0.00">Browser</tspan>
+</text>
+<text x="-389.17" y="11637.09" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="-389.17" dy="0.00">HTTPS :443</tspan>
+</text>
+<text x="1918.67" y="12149.49" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1918.67" dy="0.00">Service bff</tspan>
+</text>
+<text x="2506.02" y="11992.64" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2506.02" dy="0.00">TCP :5432</tspan>
+</text>
+<text x="2342.33" y="11665.99" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2342.33" dy="0.00">HTTPS :443</tspan>
+</text>
+<text x="-90.11" y="11889.01" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="-90.11" dy="0.00">HTTPS :443</tspan>
+</text>
+<text x="1560.81" y="11815.13" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1560.81" dy="0.00">HTTPS :443</tspan>
+</text>
+<text x="1880.37" y="13273.21" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1880.37" dy="0.00">AZURE</tspan>
+</text>
+<text x="1837.46" y="13345.36" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1837.46" dy="0.00">ENTRA ID / AD</tspan>
+</text>
+<text x="217.39" y="11928.30" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="217.39" dy="0.00">HTTPS :443</tspan>
+</text>
+<text x="1421.81" y="12706.54" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1421.81" dy="0.00">HTTPS :443</tspan>
+</text>
+<text x="1637.15" y="12132.25" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1637.15" dy="0.00">Ingress</tspan>
+<tspan x="1637.15" dy="25.00">/api/*</tspan>
+</text>
+<text x="1326.76" y="11659.97" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1326.76" dy="0.00">HTTP:8080</tspan>
+</text>
+<text x="1754.28" y="11822.13" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="1754.28" dy="0.00">HTTP:8080</tspan>
+</text>
+<text x="2167.86" y="12107.05" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2167.86" dy="0.00">Deployment bff</tspan>
+<tspan x="2167.86" dy="25.00"></tspan>
+<tspan x="2167.86" dy="25.00">Pod bff-01</tspan>
+<tspan x="2167.86" dy="25.00">Pod bff-02</tspan>
+<tspan x="2167.86" dy="25.00"></tspan>
+</text>
+<text x="2151.24" y="12415.96" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2151.24" dy="0.00">Service cashflow-api</tspan>
+</text>
+<text x="2511.77" y="12346.08" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="2511.77" dy="0.00">Deployment cashflow-api</tspan>
+<tspan x="2511.77" dy="25.00"></tspan>
+<tspan x="2511.77" dy="25.00">Pod cashflow-api-01</tspan>
+<tspan x="2511.77" dy="25.00">Pod ashflow-api-02</tspan>
+<tspan x="2511.77" dy="25.00"></tspan>
+</text>
+<text x="3835.16" y="12137.45" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3835.16" dy="0.00">Session Table</tspan>
+</text>
+<text x="933.76" y="12141.38" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="933.76" dy="0.00">ALB</tspan>
+</text>
+<text x="183.91" y="11645.26" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="183.91" dy="0.00">HTTPS :443</tspan>
+</text>
+<text x="843.28" y="11654.81" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="843.28" dy="0.00">HTTP:8080</tspan>
+</text>
+<text x="313.45" y="12112.40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="313.45" dy="0.00">Distribution</tspan>
+<tspan x="313.45" dy="25.00">Origin:  ALB api/*</tspan>
+</text>
+<text x="296.89" y="12192.58" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="296.89" dy="0.00">Distribution</tspan>
+<tspan x="296.89" dy="25.00">Origin:  S3 Angular /*</tspan>
+</text>
+<text x="-53.77" y="15567.61" font-family="Arial, Helvetica, sans-serif" font-size="21.175445987404107" font-weight="400" fill="#1e1e1e">
+<tspan x="-53.77" dy="0.00">Alta Disponibilidade</tspan>
+</text>
+<text x="-45.99" y="15475.82" font-family="Arial, Helvetica, sans-serif" font-size="21.175445987404107" font-weight="400" fill="#1e1e1e">
+<tspan x="-45.99" dy="0.00">Observabilidade</tspan>
+</text>
+<text x="-34.32" y="15368.85" font-family="Arial, Helvetica, sans-serif" font-size="21.175445987404107" font-weight="400" fill="#1e1e1e">
+<tspan x="-34.32" dy="0.00">Baixa Latência</tspan>
+</text>
+<text x="-25.63" y="15288.78" font-family="Arial, Helvetica, sans-serif" font-size="21.175445987404107" font-weight="400" fill="#1e1e1e">
+<tspan x="-25.63" dy="0.00">Resiliência</tspan>
+</text>
+<text x="-63.68" y="15172.38" font-family="Arial, Helvetica, sans-serif" font-size="21.175445987404107" font-weight="400" fill="#1e1e1e">
+<tspan x="-63.68" dy="0.00">rate limit/throttling</tspan>
+</text>
+<text x="3217.87" y="12524.56" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3217.87" dy="0.00">RDS PostgreSQL</tspan>
+</text>
+<text x="3328.46" y="12084.52" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3328.46" dy="0.00">DynamoDB Gateway</tspan>
+</text>
+<text x="3357.86" y="12147.02" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3357.86" dy="0.00">VCP EndPoint</tspan>
+</text>
+<text x="944.15" y="11940.61" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#e03131">
+<tspan x="944.15" dy="0.00">SG-ALB</tspan>
+</text>
+<text x="884.42" y="11969.80" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#e03131">
+<tspan x="884.42" dy="0.00">inbound: CloudFront, port 443 </tspan>
+</text>
+<text x="888.45" y="11997.18" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#e03131">
+<tspan x="888.45" dy="0.00">outbound: SG-EKS, port 8080</tspan>
+</text>
+<text x="1546.68" y="11785.22" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#e03131">
+<tspan x="1546.68" dy="0.00">SG-EKS</tspan>
+</text>
+<text x="1730.05" y="11776.50" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#e03131">
+<tspan x="1730.05" dy="0.00">inbound: SG-ALB, port 8080 </tspan>
+</text>
+<text x="1730.30" y="11809.16" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#e03131">
+<tspan x="1730.30" dy="0.00">outbound: interrno, port 8080</tspan>
+</text>
+<text x="1730.23" y="11842.39" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#e03131">
+<tspan x="1730.23" dy="0.00">outbound: SG-RDS, port 5432</tspan>
+</text>
+<text x="1735.54" y="11875.76" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#e03131">
+<tspan x="1735.54" dy="0.00">outbound: Cognito/DynamoDB, port 443</tspan>
+</text>
+<text x="3257.09" y="12384.81" font-family="Arial, Helvetica, sans-serif" font-size="19.352228173059704" font-weight="400" fill="#e03131">
+<tspan x="3257.09" dy="0.00">SG-RDS</tspan>
+</text>
+<text x="3182.84" y="12408.15" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#e03131">
+<tspan x="3182.84" dy="0.00">inbound: SG-EKS, port 5432</tspan>
+</text>
+<text x="4818.16" y="8486.44" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4818.16" dy="0.00">PostgreSQL</tspan>
+</text>
+<text x="9414.42" y="7026.59" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="9414.42" dy="0.00">daily_cash_flow_summary_projection</tspan>
+</text>
+<text x="9527.79" y="6995.40" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="9527.79" dy="0.00">&lt;&lt;table&gt;&gt;</tspan>
+</text>
+<text x="9434.97" y="7088.22" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="9434.97" dy="0.00">openingBalance</tspan>
+</text>
+<text x="9433.36" y="7125.65" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="9433.36" dy="0.00">totalInflow</tspan>
+</text>
+<text x="9434.43" y="7160.08" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="9434.43" dy="0.00">totalInflow</tspan>
+</text>
+<text x="9429.85" y="7206.23" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="9429.85" dy="0.00">closingBalance</tspan>
+</text>
+<text x="4815.70" y="8583.02" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="4815.70" dy="0.00">transaction</tspan>
+</text>
+<text x="4829.58" y="8548.16" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="4829.58" dy="0.00">&lt;&lt;table&gt;&gt;</tspan>
+</text>
+<text x="4736.76" y="8640.99" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="4736.76" dy="0.00">openingBalance</tspan>
+</text>
+<text x="4735.16" y="8678.41" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="4735.16" dy="0.00">totalInflow</tspan>
+</text>
+<text x="4736.22" y="8712.85" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="4736.22" dy="0.00">totalInflow</tspan>
+</text>
+<text x="4736.22" y="8745.78" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="4736.22" dy="0.00">closingBalance</tspan>
+</text>
+<text x="4505.16" y="7024.44" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4505.16" dy="0.00">OutBoxEventRepository</tspan>
+</text>
+<text x="4471.31" y="7084.57" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4471.31" dy="0.00">save(transactionCreated)</tspan>
+</text>
+<text x="4522.36" y="6988.93" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="4522.36" dy="0.00">&lt;&lt;damain interface&gt;&gt;</tspan>
+</text>
+<text x="5019.43" y="7044.01" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="5019.43" dy="0.00">OutBoxEventRepositoryAdapter</tspan>
+</text>
+<text x="5121.08" y="7004.40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="5121.08" dy="0.00">&lt;&lt;infra&gt;&gt;</tspan>
+</text>
+<text x="5026.12" y="7098.05" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="5026.12" dy="0.00">save(transactionCreated)</tspan>
+</text>
+<text x="5096.43" y="6674.72" font-family="Arial, Helvetica, sans-serif" font-size="18.84871678539868" font-weight="400" fill="#1e1e1e">
+<tspan x="5096.43" dy="0.00">OutBoxEventEntity</tspan>
+</text>
+<text x="5053.13" y="6727.08" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="5053.13" dy="0.00">UUID transactionId</tspan>
+<tspan x="5053.13" dy="25.00">BigDecimal ammount</tspan>
+<tspan x="5053.13" dy="25.00">DateTime date</tspan>
+<tspan x="5053.13" dy="25.00">String description</tspan>
+<tspan x="5053.13" dy="25.00">TransactionType type</tspan>
+<tspan x="5053.13" dy="25.00">Instant createdAt</tspan>
+<tspan x="5053.13" dy="25.00"></tspan>
+</text>
+<text x="5134.61" y="6645.80" font-family="Arial, Helvetica, sans-serif" font-size="18.84871678539868" font-weight="400" fill="#1e1e1e">
+<tspan x="5134.61" dy="0.00">&lt;&lt;infra&gt;&gt;</tspan>
+</text>
+<text x="5626.71" y="6900.39" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="5626.71" dy="0.00">SpringDataOutBoxEventJpaRepository </tspan>
+</text>
+<text x="5629.13" y="6934.14" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="5629.13" dy="0.00">save(transactionEntity)</tspan>
+</text>
+<text x="5661.53" y="7218.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="5661.53" dy="0.00">OutBoxEventPersistenceMapper </tspan>
+</text>
+<text x="5735.20" y="6871.14" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="5735.20" dy="0.00">&lt;&lt;infra&gt;&gt;</tspan>
+</text>
+<text x="5673.24" y="7266.80" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="5673.24" dy="0.00">toEntity(transaction)</tspan>
+<tspan x="5673.24" dy="25.00">toDomain(transactionEntity)</tspan>
+</text>
+<text x="5420.15" y="7313.68" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="5420.15" dy="0.00">delegates</tspan>
+</text>
+<text x="5459.64" y="7511.31" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#1e1e1e">
+<tspan x="5459.64" dy="0.00">Uses</tspan>
+</text>
+<text x="6701.69" y="6913.18" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="6701.69" dy="0.00">PostgreSQL</tspan>
+</text>
+<text x="6705.89" y="7008.09" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="6705.89" dy="0.00">OutBoxEvent</tspan>
+</text>
+<text x="6711.78" y="6973.24" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="6711.78" dy="0.00">&lt;&lt;table&gt;&gt;</tspan>
+</text>
+<text x="6608.96" y="7062.31" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="6608.96" dy="0.00">outboxEventID</tspan>
+</text>
+<text x="6613.61" y="7135.99" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="6613.61" dy="0.00">totalInflow</tspan>
+</text>
+<text x="6612.17" y="7172.92" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="6612.17" dy="0.00">totalInflow</tspan>
+</text>
+<text x="6609.67" y="7208.36" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="6609.67" dy="0.00">closingBalance</tspan>
+</text>
+<text x="8190.47" y="7106.23" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="#1e1e1e">
+<tspan x="8190.47" dy="0.00">SQS</tspan>
+</text>
+<text x="8786.49" y="7114.00" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="#1e1e1e">
+<tspan x="8786.49" dy="0.00">WorkerSummary</tspan>
+</text>
+<text x="5464.77" y="6534.50" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="#2f9e44">
+<tspan x="5464.77" dy="0.00">@Transactional boundary</tspan>
+<tspan x="5464.77" dy="45.00">Atomic commit: transactions + outbox_events</tspan>
+</text>
+<text x="7452.89" y="7105.21" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="#1e1e1e">
+<tspan x="7452.89" dy="0.00">OutBoxPubliser</tspan>
+</text>
+<text x="8883.03" y="7455.54" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="#1e1e1e">
+<tspan x="8883.03" dy="0.00">DLQ</tspan>
+</text>
+<text x="6611.10" y="7094.81" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="6611.10" dy="0.00">openingBalance</tspan>
+</text>
+<text x="3463.94" y="10332.47" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3463.94" dy="0.00">DynamoDB</tspan>
+</text>
+<text x="3355.23" y="10428.60" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="3355.23" dy="0.00">daily_cash_flow_summary_projection</tspan>
+</text>
+<text x="3444.59" y="10403.41" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="3444.59" dy="0.00">&lt;&lt;table&gt;&gt;</tspan>
+</text>
+<text x="3351.77" y="10496.23" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="3351.77" dy="0.00">openingBalance</tspan>
+</text>
+<text x="3350.17" y="10533.66" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="3350.17" dy="0.00">totalInflow</tspan>
+</text>
+<text x="3351.23" y="10568.09" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="3351.23" dy="0.00">totalInflow</tspan>
+</text>
+<text x="3346.65" y="10614.24" font-family="Arial, Helvetica, sans-serif" font-size="19.593094073192336" font-weight="400" fill="#1e1e1e">
+<tspan x="3346.65" dy="0.00">closingBalance</tspan>
+</text>
+<text x="3929.69" y="11736.34" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3929.69" dy="0.00">DynamoDB</tspan>
+</text>
+<text x="3803.42" y="11807.77" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#1e1e1e">
+<tspan x="3803.42" dy="0.00">daily_cash_flow_summary_projection</tspan>
+</text>
+</svg>

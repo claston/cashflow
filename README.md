@@ -11,6 +11,13 @@ POC local para demonstrar arquitetura de fluxo de caixa com:
 - rate limit local;
 - resiliencia minima.
 
+## Documentacao
+
+- [Solucao de fluxo de caixa consolidada](docs/solucao_fluxo_caixa_consolidada.md)
+- [Especificacao GPT-5.4 Cashflow POC](docs/especificacao_gpt54_cashflow_poc.md)
+- [Especificacao GPT-5.4 Mini Cashflow POC](docs/especificacao_gpt54_mini_cashflow_poc.md)
+- [Diagrama Excalidraw](docs/Cashflow-2026-05-30-1130.excalidraw)
+
 ## Como rodar
 
 ```bash

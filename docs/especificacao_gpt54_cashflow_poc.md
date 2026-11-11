@@ -1,5 +1,7 @@
 # Especificação para GPT 5.4 — POC Local de Arquitetura de Fluxo de Caixa
 
+> **Histórico de concepção e implementação.** Este documento preserva as orientações originais usadas para construir a POC. Comandos, exemplos e critérios abaixo expressam o planejamento da época e podem diferir da implementação atual. Para uso do projeto, consulte a [arquitetura da POC](arquitetura_poc.md), o [guia de execução](guia_execucao.md) e a [referência da API](api.md). A navegação principal está no [README](../README.md).
+
 ## 1. Papel do agente
 
 Você é um engenheiro Java/Spring Boot sênior. Sua tarefa é implementar o arcabouço principal de uma POC local de arquitetura de fluxo de caixa usando monólito modular Spring Boot.

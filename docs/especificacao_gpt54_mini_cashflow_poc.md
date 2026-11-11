@@ -1,5 +1,7 @@
 # Especificação para GPT 5.4 Mini — Complementação da POC de Fluxo de Caixa
 
+> **Histórico de complementação da implementação.** Este documento preserva as instruções originais para completar a POC. A lista de tarefas não representa o estado atual do projeto. Para os contratos e procedimentos atuais, consulte a [arquitetura da POC](arquitetura_poc.md), o [guia de execução](guia_execucao.md) e a [referência da API](api.md). A navegação principal está no [README](../README.md).
+
 ## 1. Papel do agente
 
 Você é um desenvolvedor Java auxiliar. Sua tarefa é completar partes faltantes de um projeto Spring Boot já iniciado, seguindo exatamente a arquitetura definida.
